@@ -4,7 +4,6 @@ Hey there! 👋 I’m **Aiswarya K J**,
 a passionate and curious **final-year Computer Science and Engineering** student.
 
 🎯 I love solving real-world problems through code and creativity.  
-🤖 Currently crafting a **Visual Question Answering (VQA)** system to empower visually impaired individuals.  
 🚀 Always exploring new tech, fine-tuning my AI skills, and sipping coffee while debugging life.
 
 > *"Building tech with purpose and people in mind."*
