@@ -52,14 +52,6 @@ a passionate and curious **final-year Computer Science and Engineering** student
 
 ---
 
-## 📈 GitHub Stats:
-
-<div align="center">
-
-![Aiswarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NSS21CS007&show_icons=true&theme=tokyonight&border_radius=15)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NSS21CS007&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
 
