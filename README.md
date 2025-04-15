@@ -51,6 +51,8 @@ a passionate and curious **final-year Computer Science and Engineering** student
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 ---
+### 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AiswaryaKJ&layout=compact&theme=tokyonight)
 
 
 ---
