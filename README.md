@@ -1,7 +1,7 @@
 ## 🌟 About Me:
 
 Hey there! 👋 I’m **Aiswarya K J**,  
-a passionate and curious **final-year Computer Science and Engineering** student.
+a passionate and curious Software Developer - I.
 
 🎯 I love solving real-world problems through code and creativity.  
 🚀 Always exploring new tech, fine-tuning my AI skills, and sipping coffee while debugging life.
@@ -20,10 +20,9 @@ a passionate and curious **final-year Computer Science and Engineering** student
 ## 💻 Tech Toolbox:
 
 ### 🧠 Languages & Tools:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PowerShell](https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### 🎨 Frontend:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
